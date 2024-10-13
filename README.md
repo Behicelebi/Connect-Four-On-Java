@@ -1,1 +1,2 @@
-Connect Four Made in Java
+# Connect Four On Java
+ Connect Four Made in Java
