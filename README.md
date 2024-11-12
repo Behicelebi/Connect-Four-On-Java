@@ -53,21 +53,10 @@ java Main
  </tr>
 </table>
 
-## Contributing
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-This project is licensed under the [license type] - see the `LICENSE` file for details.
-
-## Contact
-[Your Name] - [your-email@example.com]
-
-Project Link: https://github.com/[your-username]/connect-four
-
-## Acknowledgments
-- [List any contributors or people you want to thank]
-- [List any resources or inspirations]
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+<h2>Acknowledgements</h2>
+<ul>
+<li>Inspired by classic arcade games.</li>
+<li>Special thanks to the online community for resources and guidance.</li>
+</ul>
