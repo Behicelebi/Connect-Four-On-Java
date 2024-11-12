@@ -1,6 +1,4 @@
 # Connect Four On Java
- Connect Four Made in Java
-# Connect Four Game
 
 ## Description
 This is a Java implementation of the classic Connect Four game. It's a strategy game where two players take turns dropping discs into a grid, attempting to form a line of four discs horizontally, vertically, or diagonally.
