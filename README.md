@@ -17,7 +17,7 @@ This is a Java implementation of the classic Connect Four game. It's a strategy 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/connect-four.git
+git clone https://github.com/Behicelebi/Connect-Four-On-Java.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -40,7 +40,18 @@ java Main
 5. If the board fills up with no winner, the game ends in a draw
 
 ## Screenshots
-[Add your game screenshots here]
+<table>
+ <tr>
+  <td>demo1</td>
+  <td>demo2</td>
+  <td>demo3</td>
+ </tr>
+ <tr>
+  <td><img src="https://github.com/Behicelebi/Connect-Four-On-Java/blob/main/screenshots/c1.jpg"></td>
+  <td><img src="https://github.com/Behicelebi/Connect-Four-On-Java/blob/main/screenshots/c2.jpg"></td>
+  <td><img src="https://github.com/Behicelebi/Connect-Four-On-Java/blob/main/screenshots/c3.jpg"></td>
+ </tr>
+</table>
 
 ## Contributing
 1. Fork the project
