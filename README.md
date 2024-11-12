@@ -60,7 +60,3 @@ Project Link: https://github.com/[your-username]/connect-four
 ## Acknowledgments
 - [List any contributors or people you want to thank]
 - [List any resources or inspirations]
-
-Note: Replace the [] brackets with your actual information.
-
-Would you like me to explain or break down any part of this README?
